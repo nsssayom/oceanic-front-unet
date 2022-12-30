@@ -43,7 +43,7 @@ comm==0.1.2
 commonmark==0.9.1
 contextlib2==21.6.0
 contourpy==1.0.6
-cookiecutter==1.7.3
+cookiecutter==2.1.1
 crashtest==0.4.1
 cryptography==38.0.3
 cupshelpers==1.0
